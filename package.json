@@ -1,0 +1,19 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "Request Header Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "keywords": [
+    "fcc",
+    "test",
+    "request-header-parser"
+  ],
+  "author": "Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
